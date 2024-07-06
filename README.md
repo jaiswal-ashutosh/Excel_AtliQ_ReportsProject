@@ -59,6 +59,12 @@ This project involves the creation of comprehensive reports for AtliQ Hardware, 
 - **Problem-Solving**: Addressing data discrepancies and analytical challenges.
 - **Attention to Detail**: Ensuring accuracy and quality in data analysis and reporting.
 
+## Report Links
+- [Customer Sales Performance Report](CustmerSalesPerformanceReport.pdf)
+- [Market Sales Performance Report](MarketSalesPerformanceReport.pdf)
+- [Profit and Loss Report by fiscal year and months](P & L by Fiscal month.pdf)
+
+
 
 
 
