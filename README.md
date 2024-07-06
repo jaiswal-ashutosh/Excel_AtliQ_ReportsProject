@@ -62,7 +62,7 @@ This project involves the creation of comprehensive reports for AtliQ Hardware, 
 ## Report Links
 - [Customer Sales Performance Report](CustmerSalesPerformanceReport.pdf)
 - [Market Sales Performance Report](MarketSalesPerformanceReport.pdf)
-- [Profit and Loss Report by fiscal year and months](P & L by Fiscal month.pdf)
+- [Profit and Loss Report by fiscal year and months](https://github.com/jaiswal-ashutosh/Excel_AtliQ_ReportsProject/blob/f5f7e52713960de1bd67cb696a96a717dad33c18/P%20%26%20L%20by%20Fiscal%20month.pdf)
 
 
 
